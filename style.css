@@ -30,3 +30,12 @@ h1 {
     transform: translateY(400px);
     border-radius: 20px;
 }
+
+.about_button {
+    font-size:50px;
+    color:cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    transform: translate(100px, 160px);
+    border-radius: 20px;
+}
