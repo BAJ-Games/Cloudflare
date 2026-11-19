@@ -19,15 +19,15 @@ h1 {
     font-weight: 1000;
 }
 
-.my_button {
+.games_button {
     font-size:50px;
     color:cornflowerblue;
     align-items: center;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 1000;
-    display: block;
-    margin: 0 auto;
-    transform: translateY(400px);
+    position: absolute;
+    left: 45%;
+    top: 80%;
     border-radius: 20px;
 }
 
@@ -36,6 +36,19 @@ h1 {
     color:cornflowerblue;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 1000;
-    transform: translate(100px, 160px);
+    position: absolute;
+    left: 30px;
+    top: 50%;
+    border-radius: 20px;
+}
+
+.github {
+    font-size:50px;
+    color:cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    position: absolute;
+    right: 30px;
+    top: 50%;
     border-radius: 20px;
 }
